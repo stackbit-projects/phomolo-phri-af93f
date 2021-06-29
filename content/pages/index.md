@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'Hi, I’m Alyvia. I help my clients succeed o'
+    title: >-
+      Hi, I’m Phomolo Phiri. A Freelance Software Engineer helping my clients
+      reach their customers more personally.
     subtitle: >-
       I will handle your website design and production, social media accounts
       and digital advertisements for you, at an affordable price.
